@@ -18,7 +18,7 @@ I am currently pursuing a Ph.D. with the Key Laboratory of Autonomous Intelligen
 
 Additionally, I collaborate closely with [Jianxing Liu](https://homepage.hit.edu.cn/jianxingliu), [Guanghui Sun](https://homepage.hit.edu.cn/guanghuisun) at AIUS, and [Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan?lang=zh) at the [DT Group](http://ir.hit.edu.cn/~dt/people/) in SCIR Lab. Since February 2022, I have been interning at Frontis.AI in China.
 
-My research interests include: 1) trustworthy and continual machine learning, 2) long sequence modeling, 3) knowledge-compositional foundation models, and multimodal human-AI collaboration systems.
+My research interests include: 1) trustworthy and continual machine learning theory, 2) knowledge-compositional foundation models; 3) Multimodal human-AI collaboration systems.
 
 If you are seeking any form of **academic cooperation**, please feel free to email me at [qibiqing7@gmail.com]
 
