@@ -22,7 +22,7 @@ My research interests include: 1) trustworthy and continual machine learning the
 
 If you are seeking any form of **academic cooperation**, please feel free to email me at [qibiqing7@gmail.com]
 
-My Research HomePage is Available at [https://biqing-qi.github.io/](https://biqing-qi.github.io/).
+My HomePage is Available at [https://biqing-qi.github.io/](https://biqing-qi.github.io/).
 
 <!--
 ### 📎 Homepages
