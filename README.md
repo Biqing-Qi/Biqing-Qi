@@ -20,9 +20,9 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 
 Additionally, I collaborate closely with [Jianxing Liu](https://homepage.hit.edu.cn/jianxingliu), [Guanghui Sun](https://homepage.hit.edu.cn/guanghuisun) at AIUS, and [Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan?lang=zh) at the [DT Group](http://ir.hit.edu.cn/~dt/people/) in SCIR Lab. Since February 2022, I have been interning at Frontis.AI in China.
 
-My research interests include: 1) trustworthy and continual machine learning theory, 2) knowledge-compositional foundation models; 3) Multimodal human-AI collaboration systems.
+My research interests include: 1) trustworthy and continual learning theory, 2) knowledge-compositional foundation models and 3) Multimodal human-AI collaboration systems.
 
-My HomePage is Available at [https://biqing-qi.github.io/](https://biqing-qi.github.io/).
+My homepage is available at [https://biqing-qi.github.io/](https://biqing-qi.github.io/).
 
 <!--
 ### 📎 Homepages
