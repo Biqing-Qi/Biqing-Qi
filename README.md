@@ -48,9 +48,9 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 
 - 大模型驱动的群体智能系统设计: 研究通用和专业领域的合作策略,旨在构建一个层级化的模型"社交网络"。这将帮助通用大模型准确利用当前任务所需的能力和知识,实现通用和专业知识的融合,扩展模型的整体知识覆盖。
 
-研究框架可参考我们关于通专融合理念的position paper https://arxiv.org/pdf/2407.08642
+- 研究框架可参考我们关于通专融合理念的position paper https://arxiv.org/pdf/2407.08642
 
-面向文章发表：AI顶会及Nature 子刊等顶级期刊
+- 面向文章发表：AI顶会及Nature 子刊等顶级期刊
 
 【岗位要求】
 
