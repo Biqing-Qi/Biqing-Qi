@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I will soon be a research scientist at the Shanghai AI Lab. Prior to that, I received my a Ph.D. with the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) in Control Science and Engineering at Harbin Institute of Technology, jointly supervised by the Center for Collaborative & Conversational Intelligence [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/) at Tsinghua University under the supervision of [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). 
+I will soon be a research scientist at the Shanghai AI Lab. Prior to that, I received the Ph.D. with the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) in Control Science and Engineering at Harbin Institute of Technology, jointly supervised by the Center for Collaborative & Conversational Intelligence [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/) at Tsinghua University under the supervision of [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). 
 
 Additionally, I collaborate closely with [Jianxing Liu](https://homepage.hit.edu.cn/jianxingliu), [Guanghui Sun](https://homepage.hit.edu.cn/guanghuisun) at AIUS, and [Weinan Zhang](https://homepage.hit.edu.cn/zhangweinan?lang=zh) at the [DT Group](http://ir.hit.edu.cn/~dt/people/) in SCIR Lab. Since February 2022, I have been interning at Frontis.AI in China.
 
