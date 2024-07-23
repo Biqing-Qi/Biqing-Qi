@@ -72,6 +72,7 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 -  充沛的AI计算资源、AI行业内知名专家的指导
 -  对于优秀实习生，将提供转正或推荐读博机会（包括周伯文教授清华课题组等）
 
+-->
 <!--
 ### 📎 Homepages
 
