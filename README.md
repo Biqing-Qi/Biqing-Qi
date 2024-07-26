@@ -22,7 +22,7 @@ My research interests include: 1) trustworthy and continual learning theory, 2) 
 
 My homepage is available at [https://biqing-qi.github.io/](https://biqing-qi.github.io/).
 
-If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HIT, Tsinghua C3I Lab, or the Shanghai AI Lab, please feel free to email me at [qibiqing7@gmail.com].
+If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HIT, Tsinghua C3I Lab, or the Shanghai AI Lab, please feel free to email me at [qibiqing7@gmail.com] or [qibiqing@pjlab.org.cn].
 
 -->
 
