@@ -36,7 +36,7 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 
 - 联系人：齐弼卿
 
-- 邮箱：qibiqing7@gmail.com
+- 邮箱：qibiqing7@gmail.com 或者 [qibiqing@pjlab.org.cn]
 
 - 微信：18846835017
 
