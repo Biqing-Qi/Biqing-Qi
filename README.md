@@ -26,7 +26,7 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 
 -->
 
-【来个实习生广告】上海人工智能实验室招聘多智能体协同驱动知识发现方向实习生，欢迎各位老师同学多多推荐[跳跳]
+【来个实习生广告】上海人工智能实验室招聘大模型驱动的群体智能方向实习生，欢迎各位老师同学多多推荐[跳跳]
 
 【岗位名称】
 
