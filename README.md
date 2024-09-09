@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a research scientist at Shanghai AI Lab. Prior to that, I received the Ph.D. with the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) in Control Science and Engineering at Harbin Institute of Technology, jointly supervised by the Center for Collaborative & Conversational Intelligence [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/) at Tsinghua University under the supervision of [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). 
+I am a research scientist in Shanghai AI Lab. Prior to that, I received the Ph.D. with the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) in Control Science and Engineering at Harbin Institute of Technology, jointly supervised by the Center for Collaborative & Conversational Intelligence [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/) at Tsinghua University under the supervision of [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). 
 
 My research interests include: 1) trustworthy and continual learning theory, 2) knowledge-compositional foundation models and 3) Multimodal human-AI collaboration systems.
 
