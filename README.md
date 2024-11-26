@@ -30,7 +30,7 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 
 - AI算法研究实习生
 
-- 联系人：齐弼卿 星启青年研究员
+- 联系人：齐弼卿 青年科学家
 
 - 邮箱：[qibiqing@pjlab.org.cn]
 
