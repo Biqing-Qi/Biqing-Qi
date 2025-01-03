@@ -34,8 +34,6 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 
 - 邮箱：[qibiqing@pjlab.org.cn]
 
-- 微信：18846835017
-
 【岗位介绍】
 
 - 群体智能的理论分析: 研究多智能体协同学习与推理能力上限,为不同场景下模型组合提供指导,回答"合多少,怎么合"的问题。
