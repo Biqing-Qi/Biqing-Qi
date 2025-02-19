@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a research scientist in Shanghai AI Lab. Prior to that, I received the Ph.D. with the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) in Control Science and Engineering at Harbin Institute of Technology, jointly supervised by the Center for Collaborative & Conversational Intelligence [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/) at Tsinghua University under the supervision of [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). 
+Biqing Qi is currently a research scientist at the Shanghai AI Lab. He received his Ph.D. from the Key Laboratory of Autonomous Intelligent Unmanned Systems [(AIUS)](https://aius.hit.edu.cn/12888/list.htm) at Harbin Institute of Technology, under the joint supervision of the Center for Collaborative & Conversational Intelligence  [(C3I)](http://c3i.ee.tsinghua.edu.cn/people/)  at Tsinghua University, guided by Professors [Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm) and [Ligang Wu](https://homepage.hit.edu.cn/wuligang). He serves as a committee member of the Embodied Intelligence Committee of the Chinese Information Processing Society, with his research focusing on machine learning theory, foundational models, and human-machine collaborative systems.
+His research has contributed to over 30 publications in top-tier conferences and journals, including NeurIPS, CVPR, ICLR, ACL, AAAI, EMNLP, NAACL, TNNLS, and TCSVT. His contributions include: 1) Co-developing the "General-Specialized Integration Intelligence" pathway for AGI with Professor Zhou Bowen's team; 2) Introducing the concept and framework of interactive continual learning from the perspectives of System 1 and System 2; and 3) Pioneering the validation of a research paradigm for independent hypothesis generation driven by large language models (LLMs). His work has garnered significant media attention and has been implemented in leading technology companies such as Tencent, ByteDance, and Xianyuan.
+Additionally, he has played a pivotal role in more than ten major projects, including two under the Ministry of Science and Technology's 2030 Key Special Project, two major R&D initiatives, and several key projects funded by the National Natural Science Foundation. He has led a Shanghai Municipal Science and Technology Commission project and has been selected for an overseas dispatch program.
 
-My research interests include: 1) trustworthy and continual learning theory, 2) knowledge-compositional foundation models and 3) Multimodal human-AI collaboration systems.
+If you are seeking any form of academic collaborations with Shanghai AI Lab or AIUS, SCIR Lab at HIT and Tsinghua C3I Lab, please feel free to email me at [qibiqing7@gmail.com](qibiqing@gmail.com) or [qibiqing@pjlab.org.cn](qibiqing@pjlab.org.cn)
 
-If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HIT, Tsinghua C3I Lab, or the Shanghai AI Lab, please feel free to email me at [qibiqing7@gmail.com] or [qibiqing@pjlab.org.cn].
+
+齐弼卿，上海人工智能实验室青年科学家，哈工大、清华联培博士，博士生导师周伯文与吴立刚教授。中文信息学会具生智能专委会委员，研究领域包括可持续机器学习理论、基础模型及人机协同系统。在NeurIPS、CVPR、ICLR、ACL、AAAI、EMNLP、NAACL、TNNLS、TCSVT等国际高水平学术期刊和会议上发表论文30余篇。其主要贡献包括：1）与周伯文教授团队共同提出“通专融合智能”AGI发展路径；2）提出交互式持续学习概念与框架：系统和系统2视角；3)首次验证大模型驱动独立假设提出的研究范式，相关成果受到多家媒体关注与报道，并在腾讯、字节、衔远等科技公司落地应用。作为核心骨干，参与了十余项国家级重大科研项目，包括科技部2030重点专项、国家重大研发计划项目及国家自然科学基金重点项目等，作为课题负责人推动上海科委XX项目（亿级），并入选海外外派人才项目。
 
 -->
 
@@ -36,13 +39,7 @@ If you are seeking any form of academic collaborations with AIUS, SCIR Lab at HI
 
 【岗位介绍】
 
-- 群体智能的理论分析: 研究多智能体协同学习与推理能力上限,为不同场景下模型组合提供指导,回答"合多少,怎么合"的问题。
-
-- 模型高效压缩重组技术: 通过对结构化知识存储的研究,我们旨在开发更灵活和可解释的模型知识存储解决方案,让我们能够根据需求灵活地高效"搭建"模型。
-
-- 高效多模型协同推理机制: 通过设计高效可靠的多模型联合推理方案,使模型能够在推理过程中实现自我纠错和反思,从而得出更可靠、准确的推理和决策。
-
-- 大模型驱动的群体智能系统设计: 研究通用和专业领域的合作策略,旨在构建一个层级化的模型"社交网络"。这将帮助通用大模型准确利用当前任务所需的能力和知识,实现通用和专业知识的融合,扩展模型的整体知识覆盖。
+- 群体智能的理论分析、模型高效压缩重组技术、高效多模型协同推理机制、大模型驱动的群体智能系统设计。
 
 - 研究框架可参考我们关于通专融合理念的position paper https://arxiv.org/pdf/2407.08642
 
