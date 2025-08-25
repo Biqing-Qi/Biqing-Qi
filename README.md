@@ -33,7 +33,7 @@ If you are seeking any form of academic collaborations with Shanghai AI Lab or A
 
 - AI算法研究实习生 (大模型与多智能体方向)
 
-- 联系人：齐弼卿 青年科学家
+- 联系人：齐弼卿 星启研究员
 
 - 邮箱：[qibiqing@pjlab.org.cn]
 
