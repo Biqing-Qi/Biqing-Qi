@@ -44,7 +44,7 @@ If you are seeking any form of academic collaborations with Shanghai AI Lab or A
 
 - 存算分离架构、层次化记忆架构、动态与弹性计算、多尺度概率建模与优化
 
-- 面向实验室重大项目需求支持以及代表性文章攻坚：AI顶会及Nature子刊等
+- 面向实验室重大项目需求牵引，并会以此产生AI顶会及Nature子刊等
 
 【岗位要求】
 
