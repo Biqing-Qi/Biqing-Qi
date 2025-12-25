@@ -28,13 +28,13 @@ If you are seeking any form of academic collaborations with Shanghai AI Lab or A
 
 -->
 
-【来个实习生广告】上海人工智能实验室招聘大模型驱动的群体智能方向实习生，欢迎各位老师同学多多推荐，名额充裕 [跳跳]
+【来个实习生广告】上海人工智能实验室招聘大模型算法实习生，欢迎各位老师同学多多推荐，名额相对充裕 [跳跳]
 
 【岗位名称】
 
 - 上海人工智能实验室
 
-- AI算法研究实习生 (大模型与多智能体方向)
+- AI算法研究实习生 (大模型架构与学习方法)
 
 - 联系人：齐弼卿 星启研究员
 
@@ -42,11 +42,9 @@ If you are seeking any form of academic collaborations with Shanghai AI Lab or A
 
 【岗位介绍】
 
-- 群体智能的理论分析、模型高效压缩重组技术、高效多模型协同推理机制、大模型驱动的群体智能系统设计。
+- 存算分离架构、层次化记忆架构、动态与弹性计算、多尺度概率建模与优化。
 
-- 研究框架可参考我们关于通专融合理念的position paper https://arxiv.org/pdf/2407.08642
-
-- 面向文章发表：AI顶会及Nature 子刊等顶级期刊
+- 面向实验室重大项目需求支持以及代表性文章攻坚：AI顶会及Nature子刊等
 
 【岗位要求】
 
