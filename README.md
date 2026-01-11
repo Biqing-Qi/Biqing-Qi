@@ -42,7 +42,7 @@ If you are seeking any form of academic collaborations with Shanghai AI Lab or A
 
 【岗位介绍】
 
-- 存算分离架构、层次化记忆架构、动态与弹性计算、多尺度概率建模与优化
+- 存算分离架构、层次化记忆机制、动态与弹性计算框架、多尺度概率建模与优化方法
 
 - 面向实验室重大项目需求牵引，并会以此产生AI顶会及Nature子刊等
 
