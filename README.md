@@ -34,7 +34,7 @@ If you are seeking any form of academic collaborations with Shanghai AI Lab or A
 
 - 上海人工智能实验室
 
-- AI算法研究实习生 (大模型架构与学习方法)
+- AI算法研究实习生
 
 - 联系人：齐弼卿 星启研究员
 
@@ -42,7 +42,7 @@ If you are seeking any form of academic collaborations with Shanghai AI Lab or A
 
 【岗位介绍】
 
-- 存算分离架构、层次化记忆机制、动态与弹性计算框架、多尺度概率建模与优化方法
+- 大模型架构与学习方法
 
 - 面向实验室重大项目需求牵引，并会以此产生AI顶会及Nature子刊等
 
